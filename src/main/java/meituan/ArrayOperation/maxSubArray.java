@@ -1,4 +1,4 @@
-package meituan;
+package meituan.ArrayOperation;
 
 public class maxSubArray {
     public int MaxSum(int[] nums) {

@@ -1,4 +1,4 @@
-package meituan;
+package meituan.ArrayOperation;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package meituan;
+package meituan.ArrayOperation;
 
 public class removeDuplicatesFromSortedArray {
     public int removeDuplicates(int[] nums) {

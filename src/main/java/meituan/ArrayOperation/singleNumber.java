@@ -1,4 +1,4 @@
-package meituan;
+package meituan.ArrayOperation;
 
 /**
  * 给你一个 非空 整数数组 nums ，除了某个元素只出现一次以外，
