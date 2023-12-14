@@ -52,7 +52,7 @@ public class findString {
         if (m == 0) {
             return 0;
         }
-        int[] pi = new int[m];
+        int[] pi = new int[m]; //π[q] 代表当前字符之前的字符串中，最长的共同前缀后缀的长度。
         for (int i = 1, j = 0; i < m; i++) {
             while (j > 0 && needle.charAt(i) != needle.charAt(j)) {
                 j = pi[j - 1];
