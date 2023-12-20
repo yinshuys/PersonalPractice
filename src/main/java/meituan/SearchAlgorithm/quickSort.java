@@ -64,8 +64,8 @@ public class quickSort {
     public static void main(String[] args) {
         int[] nums = new int[]{5, 1, 6, 3, 8, 7, 2};
         new quickSort().sortArray1(nums);
-        for (int i = 0; i < nums.length; i++) {
-            System.out.print(nums[i]);
+        for (int num : nums) {
+            System.out.print(num);
         }
     }
 
