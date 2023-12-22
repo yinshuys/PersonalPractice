@@ -1,7 +1,5 @@
 package meituan.trees;
 
-import meituan.trees.TreeNode;
-
 import java.util.ArrayList;
 import java.util.Deque;
 import java.util.LinkedList;

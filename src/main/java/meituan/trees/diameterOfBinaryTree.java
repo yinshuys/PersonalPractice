@@ -1,7 +1,5 @@
 package meituan.trees;
 
-import meituan.trees.TreeNode;
-
 public class diameterOfBinaryTree {
     int ans;
 
