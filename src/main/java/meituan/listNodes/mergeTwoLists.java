@@ -1,8 +1,5 @@
 package meituan.listNodes;
 
-
-import meituan.listNodes.ListNode;
-
 public class mergeTwoLists {
     public ListNode mergeLists(ListNode list1, ListNode list2) {
 
