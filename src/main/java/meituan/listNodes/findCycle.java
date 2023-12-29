@@ -1,7 +1,5 @@
 package meituan.listNodes;
 
-import meituan.listNodes.ListNode;
-
 public class findCycle {
     public boolean hasCycle(ListNode head) {
         if (head == null || head.next == null) return false;
